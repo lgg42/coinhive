@@ -1,0 +1,9 @@
+{
+	"plugin-data":
+	{
+		"name": "Coinhive Miner",
+		"description": "Este plugin agrega un script básico de mineria de Coinhive en la cabecera (head) del sitio."
+	},
+
+	"complete-this-field-with-the-coinhive-site-key": "Completa este campo con la llave pública (site-key) de Coinhive de tu sitio"
+}
